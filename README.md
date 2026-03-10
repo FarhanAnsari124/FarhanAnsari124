@@ -1,4 +1,4 @@
-[cite_start]<h1 align="center">Hi 👋, I'm Mohd Farhan Ansari [cite: 2]</h1>
+<h1 align="center">Hi 👋, I'm Mohd Farhan Ansari </h1>
 <h3 align="center">🚀 Full Stack MERN Developer | Competitive Programmer | SDE Intern from India 🇮🇳</h3>
 
 <p align="center">
@@ -9,12 +9,12 @@
 
 ### 🧠 About Me
 
-- [cite_start]🌱 Currently pursuing B.Tech in Computer Science and Engineering (Data Science) at Pranveer Singh Institute Of Technology, Kanpur (Class of 2027)[cite: 8, 10, 11].
+- 🌱 Currently pursuing B.Tech in Computer Science and Engineering (Data Science) at Pranveer Singh Institute Of Technology, Kanpur (Class of 2022)
 - 💼 Working professionally as an SDE Intern at ITJOBXS.
-- [cite_start]💻 Building full-stack applications like the TalentIQ real-time interview platform and Sqil Learning Management Software[cite: 15, 19, 25].
-- [cite_start]🏆 Passionate about Competitive Programming: Ranked Top 5% as a LeetCode Knight (Max Rating: 1847) with over 1000+ DSA problems solved[cite: 36, 38].
-- [cite_start]💬 Ask me about **MERN Stack (MongoDB, Express.js, React.js, Node.js)**, **C++**, or **Data Structures & Algorithms**[cite: 12, 30, 31, 32].
-- [cite_start]📫 Reach me on [LinkedIn](https://linkedin.com/in/mohd-farhan-ansari-596101314)[cite: 47].
+- 💻 Building full-stack applications like the TalentIQ real-time interview platform and Sqil Learning Management Software.
+- 🏆 Passionate about Competitive Programming: Ranked Top 5% as a LeetCode Knight (Max Rating: 1847) with over 1000+ DSA problems solved.
+- 💬 Ask me about **MERN Stack (MongoDB, Express.js, React.js, Node.js)**, **C++**, or **Data Structures & Algorithms**.
+- 📫 Reach me on [LinkedIn](https://linkedin.com).
 - ⚡ Fun fact: *Alongside coding, I love diving into graphic design—I've even designed logos for my family's restaurant and my own applications!*
 
 ---
