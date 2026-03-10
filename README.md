@@ -48,7 +48,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohd-farhan-ansari-596101314"><img src="https://img.icons8.com/color/48/linkedin.png" width="36" /></a>
-  <a href="https://leetcode.com/u/Farhan__ansaril/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="36" /></a>
+  <a href="https://leetcode.com/u/Farhan__ansari1"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="36" /></a>
   <a href="https://github.com/FarhanAnsari124"><img src="https://img.icons8.com/glyph-neue/48/github.png" width="36" /></a>
 </p>
 
