@@ -39,11 +39,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FarhanAnsari124&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanAnsari124&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarhanAnsari124&theme=radical" alt="GitHub Streak" />
 </p>
 
@@ -53,7 +48,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohd-farhan-ansari-596101314"><img src="https://img.icons8.com/color/48/linkedin.png" width="36" /></a>
-  <a href="https://leetcode.com/u/Farhan_ansaril/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="36" /></a>
+  <a href="https://leetcode.com/u/Farhan__ansaril/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="36" /></a>
   <a href="https://github.com/FarhanAnsari124"><img src="https://img.icons8.com/glyph-neue/48/github.png" width="36" /></a>
 </p>
 
