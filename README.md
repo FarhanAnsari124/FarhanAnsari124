@@ -9,12 +9,12 @@
 
 ### 🧠 About Me
 
-- 🌱 Currently pursuing B.Tech in Computer Science and Engineering (Data Science) at Pranveer Singh Institute Of Technology, Kanpur (Class of 2022)
+- 🌱 Currently pursuing B.Tech in Computer Science and Engineering (Data Science) at Pranveer Singh Institute Of Technology, Kanpur (Class of 2027)
 - 💼 Working professionally as an SDE Intern at ITJOBXS.
 - 💻 Building full-stack applications like the TalentIQ real-time interview platform and Sqil Learning Management Software.
 - 🏆 Passionate about Competitive Programming: Ranked Top 5% as a LeetCode Knight (Max Rating: 1847) with over 1000+ DSA problems solved.
 - 💬 Ask me about **MERN Stack (MongoDB, Express.js, React.js, Node.js)**, **C++**, or **Data Structures & Algorithms**.
-- 📫 Reach me on [LinkedIn](https://linkedin.com).
+- 📫 Reach me on [LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/mohd-farhan-ansari-596101314/)).
 - ⚡ Fun fact: *Alongside coding, I love diving into graphic design—I've even designed logos for my family's restaurant and my own applications!*
 
 ---
